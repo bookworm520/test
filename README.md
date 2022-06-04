@@ -1,2 +1,7 @@
 # test
-description that goes in readme file
+
+## usage
+``` bash
+git clone https://github.com/bookworm520/test.git
+
+```
